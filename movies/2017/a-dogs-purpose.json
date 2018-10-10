@@ -1,0 +1,28 @@
+{
+  "name": "A Dog's Purpose",
+  "year": 2017,
+  "runtime": 100,
+  "categories": [
+    "adventure",
+    "comedy",
+    "drama"
+  ],
+  "release-date": "2017-10-06",
+  "director": "Lasse Hallström",
+  "writer": [
+    "Cathryn Michon",
+    "W. Bruce Cameron",
+    "Audrey Wells",
+    "Maya Forbes",
+    "Wally Wolodarsky"
+  ],
+  "actors": [
+    "Dennis Quaid",
+    "Britt Robertson",
+    "Bryce Gheisar",
+    "Juliet Rylance",
+    "Luke Kirby",
+    "Josh Gad"
+  ],
+  "storyline": "A dog tries to discover its purpose in life as it goes through different owners. Through various reincarnations such as Toby, Bailey and Buddy, the same dog will have the opportunity to live three different lives and thus discover the purpose of their existence alongside humans."
+}
