@@ -1,0 +1,24 @@
+{
+  "name": "The Shape Of Water",
+  "year": 2018,
+  "runtime": 123,
+  "categories": [
+    "adventure",
+    "drama",
+    "fantasy"
+  ],
+  "release-date": "2017-12-08",
+  "director": "Guillermo del Toro",
+  "writer": [
+    "Guillermo del Toro",
+    "Vanessa Taylor"
+  ],
+  "actors": [
+    "Sally Hawkins",
+    "Michael Shannon",
+    "Richard Jenkins",
+    "Octavia Spencer",
+    "Doug Jones"
+  ],
+  "storyline": "In the laboratory where she works, hidden in a high security facility of the government, the lonely Elisa (Sally Hawkins) is trapped in a life full of silence and isolation. Elisa's life changes completely when, together with her partner Zelda (Octavia Spencer), she discovers an experiment classified as secret."
+}
